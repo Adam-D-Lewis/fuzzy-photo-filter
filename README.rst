@@ -16,7 +16,7 @@ Fuzzy Photo Filter
 
 
 
-Filters Out Blurry Images from Nonblurr
+Filters Out Blurry Images from clear ones
 
 
 * Free software: GNU General Public License v3
