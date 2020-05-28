@@ -1,0 +1,13 @@
+# conda enviornment file
+name: fpf
+channels:
+- conda-forge
+- defaults
+dependencies:
+- pip
+- pytorch == 0.4.1
+- torchvision
+- scipy
+- pillow
+- pip:
+    - opencv-contrib-python
